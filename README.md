@@ -1,11 +1,7 @@
 ### <div align="center">I'm Petar, Senior Software Engineer with 8+ years of experience 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on acquiring more knowledge about System Design and Architecture of applications.  
-  
-
-- 🌱 I’m currently learning React, Azure....  
-
+- 🔭 I’m currently working on aquiring more knowleage about Modular Monoliths, DDD, React and some advanced software architectures
   
 - 💬 Ask me about: .NET, DDD, CQRS, RESTful APIs, SQL Databases, Software Architecture, Design Patterns, Testing  
   

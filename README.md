@@ -5,11 +5,8 @@
   
 
 - 🌱 I’m currently learning React, Azure....  
-  
 
-- ⚡ Fun fact: I use tabs over spaces  
   
-
 - 💬 Ask me about: .NET, DDD, CQRS, RESTful APIs, SQL Databases, Software Architecture, Design Patterns, Testing  
   
 

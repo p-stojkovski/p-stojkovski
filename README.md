@@ -1,4 +1,4 @@
-### <div align="center">I'm Petar, Senior Software Engineer with 8+ years of experience 👨‍💻</div>  
+### <div align="left">I'm a senior software engineer, primarily working in the .NET ecosystem. 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on aquiring more knowleage about Modular Monoliths, DDD, React and some advanced software architectures

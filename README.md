@@ -1,5 +1,6 @@
-### <div align="left">I'm a senior software engineer, primarily working in the .NET ecosystem. 👨‍💻</div>  
+### <div align="center">Hi there! 👋 <br/> <br/>  I'm a senior software engineer, primarily working in the .NET ecosystem. 👨‍💻</div>  
   
+<br/> 
 
 - 🔭 I’m currently working on aquiring more knowleage about Modular Monoliths, DDD, React and some advanced software architectures
   

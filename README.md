@@ -1,6 +1,12 @@
-### <div align="center">Hi there! 👋 <br/> <br/>  I'm a senior software engineer, primarily working in the .NET ecosystem. 👨‍💻</div>  
+### <div class="markdown-heading" align="left">Hi there, I'm Petar Stojkovski 👋</div>  
+
+<br>
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/petar-stojkovski-290a0b36" rel="nofollow"><img src="https://camo.githubusercontent.com/5b4690b2c4142b40e593f7ba64b447eee2b4ab6696d57fde25a3fea7c7cbd28b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f6c6f676f3d6c696e6b6564696e267374796c653d666f722d7468652d6261646765" alt="LinkedIn URL" data-canonical-src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&amp;style=for-the-badge" style="max-width: 100%;"></a>
+
+### <div align="left">I'm a senior software engineer, primarily working in the .NET ecosystem.</div>  
   
-<br/> 
+<hr> 
 
 - 🔭 I’m currently working on aquiring more knowleage about Modular Monoliths, DDD, React and some advanced software architectures
   
@@ -9,11 +15,8 @@
 
 <br/>  
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -29,8 +32,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
@@ -42,8 +43,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -54,32 +53,8 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/petar-stojkovski-290a0b36" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=p-stojkovski&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
 
 <br/>  
 
@@ -87,11 +62,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <img src="https://komarev.com/ghpvc/?username=p-stojkovski&&style=flat-square" align="center" />
 </div>  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

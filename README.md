@@ -12,7 +12,9 @@
   
 - 💬 Ask me about: .NET, DDD, CQRS, RESTful APIs, SQL Databases, Software Architecture, Design Patterns, Testing
 
-- This is my repository that I've stared using it recently for keeping track of my learnings, like a code shelf, explore and try some new approaches.
+- This is my repository that I've stared using it recently for keeping track of my learnings, like a code shelf, explore and try some new approaches based on courses, readings, videos... I tend to learn different ways of coding, designs, code structure, architectures, based on the learning material, so I can gain more knowleage and navigate easier in different codebases, spot weaknesses and make an opinion on how projects can be build and maintained in most optimal way in that moment.
+
+- My personal preference in building new project and working on an exiting one, is simplicity. Simple coding, design so it can be easy to change, testable, easy to navigate and read.
 
 ### My skill set
 

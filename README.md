@@ -12,7 +12,7 @@
   
 - 💬 Ask me about: .NET, DDD, CQRS, RESTful APIs, SQL Databases, Software Architecture, Design Patterns, Testing
 
-- This is my repository mostly that I've stared using it recently for keeping track of my learnings, like a code shelf, explore and try some new approaches.
+- This is my repository that I've stared using it recently for keeping track of my learnings, like a code shelf, explore and try some new approaches.
 
 ### My skill set
 

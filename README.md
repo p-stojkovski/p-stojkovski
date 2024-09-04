@@ -2,7 +2,7 @@
 
 <br>
 
-<a href="https://linkedin.com/in/petar-stojkovski-290a0b36" rel="nofollow"><img src="https://camo.githubusercontent.com/5b4690b2c4142b40e593f7ba64b447eee2b4ab6696d57fde25a3fea7c7cbd28b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d436f6e6e6563742d626c75653f6c6f676f3d6c696e6b6564696e267374796c653d666f722d7468652d6261646765" alt="LinkedIn URL" data-canonical-src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&amp;style=for-the-badge" style="max-width: 100%;"></a>
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/milan-jovanovic](https://linkedin.com/in/petar-stojkovski-290a0b36))
 
 ### <div align="left">I'm a senior software engineer, primarily working in the .NET ecosystem.</div>  
   

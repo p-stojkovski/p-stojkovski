@@ -8,7 +8,7 @@
   
 <hr> 
 
-- 🔭 I’m currently working on aquiring more knowleage about Modular Monoliths, DDD, System design, Azure, React and some advanced software architectures
+- 🔭 I’m currently working on aquiring more knowleage about Modular Monoliths, DDD, System design, Azure, React, Angular and some advanced software architectures
   
 - 💬 Ask me about: .NET, DDD, CQRS, RESTful APIs, SQL Databases, Software Architecture, Design Patterns, Testing
 

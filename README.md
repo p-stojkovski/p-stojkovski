@@ -2,7 +2,7 @@
 
 <br>
 
-[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/milan-jovanovic](https://linkedin.com/in/petar-stojkovski-290a0b36))
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/petar-stojkovski-290a0b36)
 
 ### <div align="left">I'm a senior software engineer, primarily working in the .NET ecosystem.</div>  
   
